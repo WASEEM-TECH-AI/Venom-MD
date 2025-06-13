@@ -3,7 +3,8 @@
 <a><img src='https://i.ibb.co/b5WCv61V/shaban-md.jpg'/></a>
 
 <p align="center">
-  <a href="https://github.com/MRSHABAN40"><img title="Developer" src="https://img.shields.io/badge/Author-SHABAN%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/MRSHABAN40"><img title="Developer" src="/Author-Waseem%20Tech![20250613_150728](https://github.com/user-attachments/assets/232d9670-06fd-4116-9352-c073d85df0e0)
+-FF00FF.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
